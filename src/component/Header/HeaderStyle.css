@@ -1,0 +1,21 @@
+#container{
+    position: absolute;
+    top:2%;
+    height:7%;
+    width:100vw;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#container>h1{
+    background-color: white;
+    padding:10px 50px;
+    border-radius: 10px;
+    border-bottom:5px solid green;
+    box-shadow: rgba(0, 0, 0, 0.457) 2px 2px 20px;
+  
+}

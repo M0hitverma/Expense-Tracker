@@ -1,0 +1,16 @@
+.container{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#heading{
+    color:cadetblue;
+    text-align:center;
+
+   height:20px;
+}
+#message{
+
+    margin-top:-20px;
+    color:cadetblue;
+    
+}
