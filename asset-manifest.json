@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Expense-Tracker/static/css/main.df3579cb.css",
+    "main.js": "/Expense-Tracker/static/js/main.75edfda7.js",
+    "static/media/shubham-s-web3-qxPBRC3HcX8-unsplash.jpg": "/Expense-Tracker/static/media/shubham-s-web3-qxPBRC3HcX8-unsplash.046fd941f5fec4af2f2f.jpg",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.df3579cb.css.map": "/Expense-Tracker/static/css/main.df3579cb.css.map",
+    "main.75edfda7.js.map": "/Expense-Tracker/static/js/main.75edfda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3579cb.css",
+    "static/js/main.75edfda7.js"
+  ]
+}
